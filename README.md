@@ -1,3 +1,6 @@
+# NOTICE
+This repo has been moved to [my Gitea server](https://git.innovation-inc.org/Innovation/forestofdoom/). Go there for updated code!
+
 # Forest of Doom
 A story about a girl who's lost in the Forest.
 
